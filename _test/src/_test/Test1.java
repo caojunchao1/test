@@ -11,5 +11,6 @@ public class Test1 {
 		System.out.println("maintwo");
 		System.out.println("mainthree");
 		System.out.println("");
+		System.out.println("mainfour");
 	}
 }
