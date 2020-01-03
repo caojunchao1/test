@@ -8,6 +8,7 @@ package _test;
 public class Test1 {
 	public static void main(String[] args) {
 		System.out.println("main");
+		System.out.println("maintwo");
 		System.out.println("mainthree");
 	}
 }
